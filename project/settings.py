@@ -25,7 +25,7 @@ SECRET_KEY = '_*&5c@1153xw6=489*2*=&*%=4)8f^m54kb@3ca-cb(wm%b@wm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['djangowebappmr.azurewebsites.net']
+ALLOWED_HOSTS = ['djangowebappmr2.azurewebsites.net']
 
 
 # Application definition
